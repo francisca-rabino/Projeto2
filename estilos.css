@@ -28,7 +28,7 @@ p {
 	line-height: 1.5;
 }
 
-/* IMAGENS */
+/* IMAGEM */
 img {
 	width: 400px;
 	display: block;
@@ -38,7 +38,7 @@ img {
 
 /* LISTAS */
 ul {
-	line-height: 2;
+	line-height: 1.5;
 }
 
 /* HIPERLIGAÇÃO */
@@ -46,6 +46,7 @@ a {
 	color: #718070;
 }
 
+/* CAIXA LINK*/
 .link {
 	background-color: #D9D9CC;
 	text-align: center;
