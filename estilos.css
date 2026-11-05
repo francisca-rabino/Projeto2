@@ -30,7 +30,7 @@ p {
 
 /* IMAGEM */
 img {
-	width: 400px;
+	max-width: 400px;
 	display: block;
     margin-left: auto;
     margin-right: auto;
