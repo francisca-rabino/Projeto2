@@ -73,7 +73,7 @@ a {
 
 
 /* 
-1. A parte que achei mais difícil foi centrar as imagens, porque inicialmente não estava a conseguir colocá-las na posição pretendida. Depois de experimentar diferentes propriedades CSS e fazer vários testes no browser, consegui perceber que tinha de utilizar display: block e margin-left e margin-rifht: auto
+1. A parte que achei mais difícil foi centrar as imagens, porque inicialmente não estava a conseguir colocá-las na posição pretendida. Depois de experimentar diferentes propriedades CSS e fazer vários testes no browser, consegui perceber que tinha de utilizar display: block e margin-left e margin-right: auto
 2. Um dos erros que mais cometi foi colocar incorretamente os pontos antes das classes. Isso fez com que algumas propriedades não fossem aplicadas. Resolvi este problema ao rever o código.
 3. O atributo href serve para criar hiperligações, permitindo encaminhar o utilizador para outra página ou site quando clica num determinado link ou palavra associada ao link.
 */
